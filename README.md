@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Still an early student fumbling my way through learning code.
